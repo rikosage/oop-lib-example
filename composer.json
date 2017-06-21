@@ -1,0 +1,14 @@
+{
+    "name": "root/new-edge-task",
+    "description": "Test task for New Edge",
+    "type": "library",
+    "authors": [
+        {
+            "name": "rikosage",
+            "email": "sageriko@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"rikosage\\": "src/"}
+    }
+}
